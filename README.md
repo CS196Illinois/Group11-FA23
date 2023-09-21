@@ -1,5 +1,5 @@
 # Group 11
-Group Name: TEAM_NAME
+Group Name: GROUP_11
 
 [MVP Link](http://cs196.cs.illinois.edu)
 
